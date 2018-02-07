@@ -1,0 +1,28 @@
+{
+  "name": "algorithms-and-data-structures",
+  "version": "1.0.0",
+  "description": "practice for algo and DS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmbothe/algorithms-and-data-structures.git"
+  },
+  "author": "Jeff Bothe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmbothe/algorithms-and-data-structures/issues"
+  },
+  "homepage": "https://github.com/jmbothe/algorithms-and-data-structures#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "jest": "^22.2.1"
+  }
+}
