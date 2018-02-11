@@ -11,7 +11,7 @@
 2. [Description](#description)
 3. [API](#api)
 4. [Contributing](#contributing)
-5. [Author, Credits and Links](#author,-credits-and-links)
+5. [Author, Credits and Links](#author-credits-and-links)
 6. [Licence](#licence)
 
 ## Demo
