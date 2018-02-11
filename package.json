@@ -8,8 +8,7 @@
   },
   "scripts": {
     "test": "jest --watch --coverage --verbose",
-    "document-html": "documentation build index.js --format html --theme docs/theme -o docs/api",
-    "document-md": "documentation build index.js --format md -o API.md"
+    "document": "documentation build index.js --format md -o API.md"
   },
   "repository": {
     "type": "git",
