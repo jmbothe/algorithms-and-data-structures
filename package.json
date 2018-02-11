@@ -7,7 +7,9 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest --watchAll --coverage"
+    "test": "jest --watch --coverage --verbose",
+    "document-html": "documentation build index.js --format html --theme docs/theme -o docs/api",
+    "document-md": "documentation build index.js --format md -o API.md"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,8 @@
   },
   "homepage": "https://github.com/jmbothe/algorithms-and-data-structures#readme",
   "devDependencies": {
+    "documentation": "^5.3.5",
+    "documentation-devseed-theme": "^0.1.4",
     "eslint": "^4.17.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
