@@ -7,12 +7,12 @@
 
 ## Table of Contents
 
-1. [Demo](#Demo)
-2. [Description](#Description)
-3. [API] (#API)
-4. [Contributing](#Contributing)
-5. [Author, Credits and Links](#Author, Credits and Links)
-6. [Licence](#Licence)
+1. [Demo](#demo)
+2. [Description](#description)
+3. [API](#api)
+4. [Contributing](#contributing)
+5. [Author, Credits and Links](#author,-credits-and-links)
+6. [Licence](#licence)
 
 ## Demo
 
