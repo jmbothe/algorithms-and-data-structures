@@ -16,7 +16,8 @@ Namespace for algorithms.
 
 ### bubbleSort
 
-Sorts an array according to a specified sort order. Worst-case time complexity is O(n^2). [Sourcecode](./lib/algorithms/bubble-sort.js).
+Sorts an array according to a specified sort order. Worst-case time complexity is O(n^2).
+[Sourcecode](./lib/algorithms/bubble-sort.js).
 
 **Parameters**
 
@@ -34,7 +35,8 @@ Returns **[array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Gl
 
 ### insertionSort
 
-Sorts an array according to a specified sort order. Best-case time complexity O(n). Worst-case O(n^2). [Sourcecode](./lib/algorithms/insertion-sort.js).
+Sorts an array according to a specified sort order. Best-case time complexity O(n). Worst-case O(n^2).
+[Sourcecode](./lib/algorithms/insertion-sort.js).
 
 **Parameters**
 
@@ -51,7 +53,8 @@ Returns **[array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Gl
 
 ### mergeSort
 
-Sorts an array according to a specified sort order. Worst-case time complexity is O(n log n). [Sourcecode](./lib/algorithms/merge-sort.js).
+Sorts an array according to a specified sort order. Worst-case time complexity is O(n log n).
+[Sourcecode](./lib/algorithms/merge-sort.js).
 
 **Parameters**
 
@@ -68,7 +71,8 @@ Returns **[array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Gl
 
 ### quickSort
 
-Sorts an array according to a specified sort order. Worst-case time complexity is O(n log n). [Sourcecode](./lib/algorithms/quick-sort.js).
+Sorts an array according to a specified sort order. Worst-case time complexity is O(n log n).
+[Sourcecode](./lib/algorithms/quick-sort.js).
 
 **Parameters**
 
@@ -85,7 +89,8 @@ Returns **[array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Gl
 
 ### findMissingNumber
 
-Finds the missing number in an array of integers from x to n (incrementing by +1) with one number missing. [Sourcecode](./lib/algorithms/find-missing-number.js).
+Finds the missing number in an array of integers from x to n (incrementing by +1) with one number missing.
+[Sourcecode](./lib/algorithms/find-missing-number.js).
 
 **Parameters**
 
