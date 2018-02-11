@@ -16,7 +16,7 @@ Namespace for algorithms.
 
 ### bubbleSort
 
-Sorts an array according to a specified sort order. Worst-case time complexity is O(n^2).
+Sorts an array according to a specified sort order. Worst-case time complexity is O(n^2). [Sourcecode](./lib/algorithms/bubble-sort.js).
 
 **Parameters**
 
@@ -34,7 +34,7 @@ Returns **[array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Gl
 
 ### insertionSort
 
-Sorts an array according to a specified sort order. Best-case time complexity O(n). Worst-case O(n^2).
+Sorts an array according to a specified sort order. Best-case time complexity O(n). Worst-case O(n^2). [Sourcecode](./lib/algorithms/insertion-sort.js).
 
 **Parameters**
 
@@ -51,7 +51,7 @@ Returns **[array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Gl
 
 ### mergeSort
 
-Sorts an array according to a specified sort order. Worst-case time complexity is O(n log n).
+Sorts an array according to a specified sort order. Worst-case time complexity is O(n log n). [Sourcecode](./lib/algorithms/merge-sort.js).
 
 **Parameters**
 
@@ -73,7 +73,7 @@ Sorts an array according to a specified sort order. Worst-case time complexity i
 **Parameters**
 
 -   `array` **[array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array)** An array of values (e.g., integers, strings, objects, or anything else that can be reliably compared by the function you specify).
--   `compare` **[function](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/function)** Specifies a function that determines sort order. More info at [MDN - Array.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
+-   `compare` **[function](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/function)** Specifies a function that determines sort order. More info at [MDN - Array.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#Description).
 
 **Examples**
 
@@ -85,7 +85,7 @@ Returns **[array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Gl
 
 ### findMissingNumber
 
-Finds the missing number in an array of integers from x to n (incrementing by +1) with one number missing.
+Finds the missing number in an array of integers from x to n (incrementing by +1) with one number missing. [Sourcecode](./lib/algorithms/find-missing-number.js).
 
 **Parameters**
 
