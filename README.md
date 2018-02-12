@@ -20,7 +20,7 @@
 
 ## API
 
-[Link to API](API.md)
+[Link to API](./api/API.md)
 
 ## Contributing
 
