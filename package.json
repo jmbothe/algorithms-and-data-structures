@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "jest --watch --coverage --verbose",
-    "document": "documentation build -f md -o api/temp.md && node api/api.js"
+    "document": "documentation build -f md | node api/api.js"
   },
   "repository": {
     "type": "git",
