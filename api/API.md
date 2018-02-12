@@ -20,7 +20,7 @@ Namespace for algorithms.
 
 Sorts an array according to a specified sort order. Worst-case time complexity is O(n^2).
 
-[Sourcecode](./lib/algorithms/bubble-sort.js).
+[Sourcecode](../lib/algorithms/bubble-sort.js).
 
 **Parameters**
 
@@ -40,7 +40,7 @@ Returns **[Array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Gl
 
 Sorts an array according to a specified sort order. Best-case time complexity O(n). Worst-case O(n^2).
 
-[Sourcecode](./lib/algorithms/insertion-sort.js).
+[Sourcecode](../lib/algorithms/insertion-sort.js).
 
 **Parameters**
 
@@ -59,7 +59,7 @@ Returns **[Array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Gl
 
 Sorts an array according to a specified sort order. Worst-case time complexity is O(n log n).
 
-[Sourcecode](./lib/algorithms/merge-sort.js).
+[Sourcecode](../lib/algorithms/merge-sort.js).
 
 **Parameters**
 
@@ -78,7 +78,7 @@ Returns **[Array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Gl
 
 Sorts an array according to a specified sort order. Worst-case time complexity is O(n log n).
 
-[Sourcecode](./lib/algorithms/quick-sort.js).
+[Sourcecode](../lib/algorithms/quick-sort.js).
 
 **Parameters**
 
@@ -97,7 +97,7 @@ Returns **[Array](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Gl
 
 Finds the missing number in an array of integers from x to n (incrementing by +1) with one number missing.
 
-[Sourcecode](./lib/algorithms/find-missing-number.js).
+[Sourcecode](../lib/algorithms/find-missing-number.js).
 
 **Parameters**
 
