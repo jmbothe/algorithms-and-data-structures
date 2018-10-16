@@ -6,6 +6,9 @@
   "directories": {
     "lib": "lib"
   },
+  "jest": {
+    "testURL": "http://localhost/"
+  },
   "scripts": {
     "test": "jest --watch --coverage --verbose",
     "document": "documentation build -f md | node api/api.js"
